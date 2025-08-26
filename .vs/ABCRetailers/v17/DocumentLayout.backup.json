@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212_poepart1_st10451904\\services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|solutionrelative:services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212_poepart1_st10451904\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212_poepart1_st10451904\\models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CE678F-6533-4B0A-865F-25D5FBEEC744}|ABCRetailers.csproj|solutionrelative:models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Services\\AzureStorageService.cs*",
+              "RelativeToolTip": "Services\\AzureStorageService.cs*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAqwAQBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:23:25.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IAzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Services\\IAzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\IAzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Services\\IAzureStorageService.cs*",
+              "RelativeToolTip": "Services\\IAzureStorageService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:08:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OrderCreateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\ViewModels\\OrderCreateViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\OrderCreateViewModel.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ViewModels\\HomeViewModel.cs",
@@ -63,12 +97,11 @@
               "RelativeToolTip": "Models\\ViewModels\\HomeViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:54:43.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:54:43.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -76,12 +109,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:52:50.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:52:50.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FileUploadModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\FileUploadModel.cs",
               "RelativeDocumentMoniker": "Models\\FileUploadModel.cs",
@@ -89,12 +121,11 @@
               "RelativeToolTip": "Models\\FileUploadModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:50:02.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:50:02.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -102,12 +133,11 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:47:46.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:47:46.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -115,12 +145,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowCMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:43:00.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:43:00.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV6212_POEpart1_ST10451904\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -128,8 +157,7 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:42:14.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T15:42:14.177Z"
             }
           ]
         }

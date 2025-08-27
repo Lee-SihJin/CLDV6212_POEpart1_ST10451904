@@ -26,7 +26,7 @@ namespace ABCRetailers.Controllers
                 FeaturedProducts = products.Take(5).ToList(),
                 ProductCount = products.Count,
                 CustomerCount = customers.Count,
-                Ordercount = orders.Count
+                OrderCount = orders.Count
             };
 
             return View(viewModel);

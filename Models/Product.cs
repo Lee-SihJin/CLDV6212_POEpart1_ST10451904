@@ -31,7 +31,7 @@ namespace ABCRetailers.Models
         {
             get
             {
-                return double.TryParse(PriceString, out var result) ? result : 0m;
+                return double.TryParse(PriceString, out var result) ? result : 0.0;
             }
             set
             {

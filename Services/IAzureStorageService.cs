@@ -5,11 +5,11 @@ namespace ABCRetailers.Services
     public interface IAzureStorageService
     {
         // Table Storage operations
-        Task<T> AddEntityAsync<T>(T entity) where T : class, ITableEntity;
-        Task<T> UpdateEntityAsync<T>(T entity) where T : class, ITableEntity;
-        Task DeleteEntityAsync<T>(string partitionKey, string rowKey) where T : class, ITableEntity, new();
-        Task<List<T>> GetAllEntitiesAsync<T>() where T : class, ITableEntity, new();
-        Task<T?> GetEntityAsync<T>(string partitionKey, string rowKey) where T : class, ITableEntity, new();
+        Task<T> AddEntityAsync<T>(T entity) where T : class, Azure.Data.Tables.ITableEntity;
+        Task<T> UpdateEntityAsync<T>(T entity) where T : class, Azure.Data.Tables.ITableEntity;
+        Task DeleteEntityAsync<T>(string partitionKey, string rowKey) where T : class, Azure.Data.Tables.ITableEntity, new();
+        Task<List<T>> GetAllEntitiesAsync<T>() where T : class, Azure.Data.Tables.ITableEntity, new();
+        Task<T?> GetEntityAsync<T>(string partitionKey, string rowKey) where T : class, Azure.Data.Tables.ITableEntity, new();
 
   
         // Blob Storage operations
